@@ -3,13 +3,15 @@
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #EEEEEE;
   font-family: "Roboto", sans-serif;
 }
 
 /*navigation*/
 nav {
-  background-color: #8583830a;
+  background-color: #00b7ff13;
+  border-radius: 60px;
+  padding: 0 20px;
 }
 
 /*banner section*/
