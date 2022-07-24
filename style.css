@@ -1,0 +1,46 @@
+* {
+  margin: 0% auto;
+}
+
+body {
+  background-color: #ffffff;
+  font-family: "Roboto", sans-serif;
+}
+
+/*navigation*/
+nav {
+  background-color: #8583830a;
+}
+
+/*banner section*/
+.btn-light {
+  color: #fa0081;
+}
+/* album */
+
+.mt-own {
+  margin-top: 150px;
+}
+.mb-own{
+  margin-bottom: 150px;
+}
+.experience-btn {
+  background-color: #3f87f5;
+}
+
+/* package section */
+.active-card {
+  background-color: #3f87f5;
+}
+
+.card-text {
+  color: #012b0e;
+}
+
+.card-title {
+  color: #0c1920;
+}
+
+#flexCheckChecked {
+  background-color: gray;
+}
